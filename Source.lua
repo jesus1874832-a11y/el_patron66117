@@ -110,6 +110,3 @@ end
 potatoBtn.MouseButton1Click:Connect(function()
     setPotatoGraphics()
 end)
-
-print("EL PATRÓN GRAPHICS cargado correctamente.")
-
